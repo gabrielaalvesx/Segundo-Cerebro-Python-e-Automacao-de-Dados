@@ -44,12 +44,11 @@ O resultado apresentou uma explicação introdutória, um exemplo utilizando `pr
 
 ### 1. Notebook e fontes utilizadas
 
-![Notebook e fontes](evidencia-01-notebook-e-fontes.png)
+![Notebook e fontes](Evidência%2001%20—%20Notebook%20e%20fontes.png)
 
 ### 2. Primeiro teste do Python
 
-![Primeiro teste do Python](evidencia-02-primeiro-teste.png)
-## Aprendizados
+![Primeiro teste do Python](Evidência%2002%20—%20Primeiro%20teste%20do%20Python.png)
 
 - Utilização do NotebookLM como ferramenta de aprendizagem.
 - Organização de fontes de conhecimento.
