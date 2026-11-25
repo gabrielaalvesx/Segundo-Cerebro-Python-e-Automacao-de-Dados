@@ -56,6 +56,10 @@ O resultado apresentou uma explicação introdutória, um exemplo utilizando `pr
 - Consulta a fontes confiáveis.
 - Aplicação da IA como apoio aos estudos de programação.
 
+## Acesso ao Segundo Cérebro
+
+[Meu notebook no NotebookLM](https://notebook.google.com/notebook/4aa724ac-bc62-4744-b3a9-5460f607cdde)
+
 ## Autora
 
 Estudante de Engenharia de Software.
