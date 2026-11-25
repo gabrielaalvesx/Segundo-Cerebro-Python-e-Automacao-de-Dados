@@ -44,7 +44,7 @@ O resultado apresentou uma explicação introdutória, um exemplo utilizando `pr
 
 ### 1. Notebook e fontes utilizadas
 
-![Notebook e fontes](Evidência%2001%20—%20Notebook%20e%20fontes.png)
+![Notebook e fontes](./Evidência%2001%20—%20Notebook%20e%20fontes.png)
 
 ### 2. Primeiro teste do Python
 
