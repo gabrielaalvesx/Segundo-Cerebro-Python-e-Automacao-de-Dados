@@ -48,7 +48,7 @@ O resultado apresentou uma explicação introdutória, um exemplo utilizando `pr
 
 ### 2. Primeiro teste do Python
 
-![Primeiro teste do Python](Evidência%2002%20—%20Primeiro%20teste%20do%20Python.png)
+![Primeiro teste do Python](./Evidência%2002%20—%20Primeiro%20teste%20do%20Python.png)
 
 - Utilização do NotebookLM como ferramenta de aprendizagem.
 - Organização de fontes de conhecimento.
