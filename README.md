@@ -42,8 +42,13 @@ O resultado apresentou uma explicação introdutória, um exemplo utilizando `pr
 
 ## Evidências
 
-As capturas de tela demonstram a criação do notebook, as fontes utilizadas e o teste inicial realizado.
+### 1. Notebook e fontes utilizadas
 
+![Notebook e fontes](evidencia-01-notebook-e-fontes.png)
+
+### 2. Primeiro teste do Python
+
+![Primeiro teste do Python](evidencia-02-primeiro-teste.png)
 ## Aprendizados
 
 - Utilização do NotebookLM como ferramenta de aprendizagem.
